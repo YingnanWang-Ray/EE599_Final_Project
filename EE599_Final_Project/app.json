@@ -1,0 +1,10 @@
+{
+  "name": "Biography_of_Hero_Agar",
+  "description": "EE599_Final_Project",
+  "scripts": {
+    "build": "gulp build",
+    "start": "gulp run",
+    "watch": "gulp watch"
+  },
+  "repository": "https://github.com/YingnanWang-Ray/EE599_Final_Project.git"
+}
