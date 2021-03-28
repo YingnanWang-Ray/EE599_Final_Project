@@ -1,5 +1,0 @@
-# EE599HW2
-EE599HW2
-
-YingnanWang homework2
-ID#4616805578
